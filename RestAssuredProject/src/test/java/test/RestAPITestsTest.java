@@ -1,11 +1,13 @@
 package test;
 
+import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;
 import java.util.HashMap;
 import java.util.concurrent.TimeUnit;
 
 import org.json.simple.JSONObject;
 import org.testng.annotations.Test;
+
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import static org.hamcrest.Matchers.*;

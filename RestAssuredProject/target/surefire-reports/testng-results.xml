@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="6022" started-at="2021-11-26T16:23:08 EST" finished-at="2021-11-26T16:23:14 EST">
+  <suite name="Command line suite" duration-ms="6378" started-at="2021-11-27T14:50:08 EST" finished-at="2021-11-27T14:50:15 EST">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="6022" started-at="2021-11-26T16:23:08 EST" finished-at="2021-11-26T16:23:14 EST">
+    <test name="Command line test" duration-ms="6378" started-at="2021-11-27T14:50:08 EST" finished-at="2021-11-27T14:50:15 EST">
       <class name="SatishProjects.RestAssuredProject.NewTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:SatishProjects.RestAssuredProject.NewTest@1e028a9]" name="f" duration-ms="2525" started-at="2021-11-26T16:23:08 EST" finished-at="2021-11-26T16:23:11 EST">
+        <test-method status="PASS" signature="f()[pri:0, instance:SatishProjects.RestAssuredProject.NewTest@5a1b69]" name="f" duration-ms="2996" started-at="2021-11-27T14:50:08 EST" finished-at="2021-11-27T14:50:11 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method status="PASS" signature="test_02()[pri:0, instance:SatishProjects.RestAssuredProject.NewTest@1e028a9]" name="test_02" duration-ms="799" started-at="2021-11-26T16:23:11 EST" finished-at="2021-11-26T16:23:12 EST">
+        <test-method status="PASS" signature="test_02()[pri:0, instance:SatishProjects.RestAssuredProject.NewTest@5a1b69]" name="test_02" duration-ms="1425" started-at="2021-11-27T14:50:11 EST" finished-at="2021-11-27T14:50:13 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_02 -->
       </class> <!-- SatishProjects.RestAssuredProject.NewTest -->
       <class name="test.RestAPITestsTest">
-        <test-method status="PASS" signature="whenMeasureResponseTime_thenOK()[pri:0, instance:test.RestAPITestsTest@bc05a6]" name="whenMeasureResponseTime_thenOK" duration-ms="952" started-at="2021-11-26T16:23:13 EST" finished-at="2021-11-26T16:23:14 EST">
+        <test-method status="PASS" signature="whenMeasureResponseTime_thenOK()[pri:0, instance:test.RestAPITestsTest@199d22e]" name="whenMeasureResponseTime_thenOK" duration-ms="379" started-at="2021-11-27T14:50:14 EST" finished-at="2021-11-27T14:50:15 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- whenMeasureResponseTime_thenOK -->
       </class> <!-- test.RestAPITestsTest -->
       <class name="SatishProjects.RestAssuredProject.Tests_GET">
-        <test-method status="PASS" signature="test_1()[pri:0, instance:SatishProjects.RestAssuredProject.Tests_GET@1fe2924]" name="test_1" duration-ms="1683" started-at="2021-11-26T16:23:12 EST" finished-at="2021-11-26T16:23:13 EST">
+        <test-method status="PASS" signature="test_1()[pri:0, instance:SatishProjects.RestAssuredProject.Tests_GET@709393]" name="test_1" duration-ms="1516" started-at="2021-11-27T14:50:13 EST" finished-at="2021-11-27T14:50:14 EST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_1 -->
